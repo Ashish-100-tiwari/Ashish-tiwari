@@ -105,7 +105,7 @@ export default function Home() {
                             transition={{ duration: 1 }} 
                  className='m-4'>
                     <motion.h1 className="text-5xl text-white font-bold">ASHISH TIWARI</motion.h1>
-                    <motion.p className="text-white text-2xl mt-5 ml-2">Full Stack Web Developer @DesignScript</motion.p>
+                    // <motion.p className="text-white text-2xl mt-5 ml-2">Full Stack Web Developer</motion.p>
                     <motion.p className="text-white text-xl mt-5 ml-2">
                     Web Developer | Data Science | Machine Learning | Ex- Celebal Intern
                     </motion.p>
@@ -153,14 +153,14 @@ export default function Home() {
             </div>
 
             {/* Experience Item 2 */}
-            <div className="flex items-center lg:w-1/2 transition-transform transform hover:scale-105">
-              <div className="bg-white p-6 rounded-lg w-full">
-                <h3 className="text-xl lg:text-2xl font-bold text-blue-500 mb-2"> Full Stack Developer</h3>
-                <p className="text-gray-800">DesignScript</p>
-                <p className='text-gray-500 text-justify'>I have designed, developed, and maintained a dynamic website showcasing diverse projects, facilitating seamless client connections. My contributions significantly enhanced the company's digital footprint and user interaction.</p>
-                <p className="text-gray-700">November 2023- Present</p>
-              </div>
-            </div>
+            // <div className="flex items-center lg:w-1/2 transition-transform transform hover:scale-105">
+            //   <div className="bg-white p-6 rounded-lg w-full">
+            //     <h3 className="text-xl lg:text-2xl font-bold text-blue-500 mb-2"> Full Stack Developer</h3>
+            //     <p className="text-gray-800">DesignScript</p>
+            //     <p className='text-gray-500 text-justify'>I have designed, developed, and maintained a dynamic website showcasing diverse projects, facilitating seamless client connections. My contributions significantly enhanced the company's digital footprint and user interaction.</p>
+            //     <p className="text-gray-700">November 2023- Present</p>
+            //   </div>
+            // </div>
           </div>
         </div>
       </section>
