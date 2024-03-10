@@ -154,10 +154,10 @@ export default function Home() {
             {/* Experience Item 2 */}
             <div className="flex items-center lg:w-1/2 transition-transform transform hover:scale-105">
               <div className="bg-white p-6 rounded-lg w-full">
-                <h3 className="text-xl lg:text-2xl font-bold text-blue-500 mb-2">Open Source Developer</h3>
-                <p className="text-gray-800">GirlScript Summer of Code</p>
-                <p className='text-gray-500 text-justify'>Making contributions to open source projects and working with diverse teams to create the perfect solution for problem statements.</p>
-                <p className="text-gray-700">May 2023- August</p>
+                <h3 className="text-xl lg:text-2xl font-bold text-blue-500 mb-2">Full Stack Developer</h3>
+                <p className="text-gray-800">DesignScript</p>
+                <p className='text-gray-500 text-justify'>As a Full Stack Developer, I played a pivotal role in elevating online presence and customer engagement. I designed, developed, and maintained a dynamic website showcasing diverse projects, facilitating seamless client connections. My contributions significantly enhanced the company's digital footprint and user interaction.</p>
+                <p className="text-gray-700">November 2023- February 2024</p>
               </div>
             </div>
           </div>
